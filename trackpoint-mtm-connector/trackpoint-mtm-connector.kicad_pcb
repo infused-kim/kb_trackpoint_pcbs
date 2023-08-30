@@ -72,7 +72,7 @@
       (mirror false)
       (drillshape 0)
       (scaleselection 1)
-      (outputdirectory "trackpoint-mtm-connector-gerbers/")
+      (outputdirectory "../gerbers/trackpoint-mtm-connector-gerbers/")
     )
   )
 
