@@ -8,7 +8,7 @@
   (title_block
     (title "Trackpoint Reset Circuit")
     (date "2023-08-30")
-    (rev "v1")
+    (rev "v1.1")
   )
 
   (layers
@@ -646,7 +646,7 @@
 
   (gr_rect (start 38.085 34.67) (end 51.085 61.67)
     (stroke (width 0.2) (type default)) (fill none) (layer "Edge.Cuts") (tstamp 73d18b7b-3ee9-47df-af20-c970fd227a90))
-  (gr_text "SCL" (at 47.126206 36.476437 -90) (layer "F.SilkS") (tstamp 1e47094e-1d17-4cd5-b65c-687c714223bb)
+  (gr_text "SCL" (at 48.22 39.23 90) (layer "F.SilkS") (tstamp 1e47094e-1d17-4cd5-b65c-687c714223bb)
     (effects (font (size 1 1) (thickness 0.16)) (justify left bottom))
   )
   (gr_text "RST" (at 45.25 59.95 90) (layer "F.SilkS") (tstamp 23c448d0-2d02-4d61-bba5-718ab2fca41e)
@@ -658,7 +658,7 @@
   (gr_text "VCC" (at 50.35 60.16 90) (layer "F.SilkS") (tstamp 60ffa4f0-bf6c-4d82-90d4-b27267cdee28)
     (effects (font (size 1 1) (thickness 0.16)) (justify left bottom))
   )
-  (gr_text "SDA" (at 42.506206 36.336437 -90) (layer "F.SilkS") (tstamp 7a926de0-fdeb-408d-841a-387ecd9cf86c)
+  (gr_text "SDA" (at 43.86 39.23 90) (layer "F.SilkS") (tstamp 7a926de0-fdeb-408d-841a-387ecd9cf86c)
     (effects (font (size 1 1) (thickness 0.16)) (justify left bottom))
   )
   (gr_text "GND" (at 42.65 60.1 90) (layer "F.SilkS") (tstamp 7bbff259-2531-4f48-95f5-5f6f8191c476)
@@ -682,7 +682,7 @@
   (gr_text "x" (at 44.156206 37.476437 270) (layer "F.SilkS") (tstamp ba7896ee-5cc5-42e1-bebc-c8a4066db2c4)
     (effects (font (size 1 1) (thickness 0.16)) (justify left bottom))
   )
-  (gr_text "GND" (at 45.486206 36.366437 -90) (layer "F.SilkS") (tstamp ed2a9c52-8780-4fd8-bb22-9830b7c3de35)
+  (gr_text "GND" (at 46.72 39.28 90) (layer "F.SilkS") (tstamp ed2a9c52-8780-4fd8-bb22-9830b7c3de35)
     (effects (font (size 1 1) (thickness 0.16)) (justify left bottom))
   )
   (gr_text "SDA" (at 47.63 60.18 90) (layer "F.SilkS") (tstamp f2342b0a-3f73-4544-8c4f-3c76b8176723)
@@ -691,7 +691,7 @@
   (gr_text "SDA" (at 44.67 45.58) (layer "F.SilkS") (tstamp f8f945c2-9bd3-44bf-9eb1-149e9cd02d70)
     (effects (font (size 1 1) (thickness 0.16)) (justify left bottom))
   )
-  (gr_text "VCC" (at 40.846206 36.416437 -90) (layer "F.SilkS") (tstamp fb4d82c9-d569-4438-a287-6d8ff295d09c)
+  (gr_text "VCC" (at 42.22 39.23 90) (layer "F.SilkS") (tstamp fb4d82c9-d569-4438-a287-6d8ff295d09c)
     (effects (font (size 1 1) (thickness 0.16)) (justify left bottom))
   )
 
