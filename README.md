@@ -10,17 +10,21 @@ A few PCBs that help with connecting and debugging trackpoints to mechanical key
 
 ### Trackpoing Reset Circuit
 
+![Trackpoint Reset Circuit Render](img/trackpoint-reset-circuit.png)
+
 Thinkpad trackpoints require a power-on-reset sequence before they can initiate a connection. This circuit allows you to perform this sequence and connect the trackpoint to a device that isn't able to perform it directly such as a QMK keyboard, a USB-to-PS2 adapter, etc...
 
 For more information, check out [Alon Swartz's detailed explanation](https://github.com/alonswartz/trackpoint).
 
-### Trackpoint Man-In-The-Middle PCB
+### Trackpoint Man-In-The-Middle (MTM) PCB
+
+![Trackpoint Reset Circuit Render](img/trackpoint-mtm-connector.png)
 
 A PCB that has a Molex Ezmate Pico connector on one side and a regular socket on the other.
 
 It uses the same connector and pinout as my [ThinkCorney keyboard](https://github.com/infused-kim/kb_think_corney).
 
-Can be used to connect the trackpoint to the ThinkCorney as well as a multimeter or logic analyzer for debugging.
+Can be used to connect the trackpoint to the ThinkCorney as well as a breadboard, multimeter or logic analyzer for debugging.
 
 ## Other useful resources
 
